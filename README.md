@@ -1,1 +1,2 @@
 Create a GitHub repository named alx-project-0x02-setup and set up the initial structure
+Next.js Project Setup and Basics
